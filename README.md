@@ -22,7 +22,7 @@
    ```sh
    git clone https://github.com/NikaJoun/note-app.git
    cd note-app
-2. **Установите зависимости""
+2. **Установите зависимости**
    ```sh
    npm install
 3. **Запустите приложение**
